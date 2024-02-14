@@ -4,9 +4,6 @@ Previously, I've worked on infrastructure at LanceDB, and on the AWS Billing Con
 
 I currently study Computer Science at McGill University in Montreal, QC.
 
-I’m a classically trained violist and enjoy playing string quartet music, reading philosophy, and playing poker.
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake.svg">
