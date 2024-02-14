@@ -1,6 +1,6 @@
 Hi, I’m Aidan 👋. I’m interested in distributed systems and databases.
 
-Previously, I've worked on infrastructure at <a href="lancedb.com">LanceDB</a>, and on the <a href="https://aws.amazon.com/aws-cost-management/aws-billing/">AWS Billing Console</a> at Amazon.
+Previously, I've worked on infrastructure at <a href="https://lancedb.com">LanceDB</a>, and on the <a href="https://aws.amazon.com/aws-cost-management/aws-billing/">AWS Billing Console</a> at Amazon.
 
 I currently study Computer Science at McGill University in Montreal, QC.
 
