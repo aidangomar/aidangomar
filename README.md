@@ -1,4 +1,11 @@
-Hi
+Hi, I’m Aidan. I’m interested in distributed systems and databases.
+
+Previously, I've worked on infrastructure at LanceDB, and on the AWS Billing Console team at Amazon.
+
+I currently study Computer Science at McGill University in Montreal, QC.
+
+I’m a classically trained violist and enjoy playing string quartet music, reading philosophy, and playing poker.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake-dark.svg">
