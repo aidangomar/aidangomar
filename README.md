@@ -1,8 +1,23 @@
-Hi, I’m Aidan 👋. I’m interested in distributed systems and databases.
+Hi, I’m Aidan 👋 
 
-Previously, I've worked on infrastructure at <a href="https://lancedb.com">LanceDB</a>, and on the <a href="https://aws.amazon.com/aws-cost-management/aws-billing/">AWS Billing Console</a> at Amazon.
+I’m interested in databases.
 
-I currently study Computer Science at McGill University in Montreal, QC.
+Previously, I was at...
+
+↳ LanceDB (YC W22), working on vector database infrastructure
+↳ Amazon Web Services, working on the billing console
+↳ Fairfield County Bank, working on sysadmin stuff + scripting and automation
+
+Now I'm...
+
+↳ Hacking around on CUDA
+↳ Finishing my CS degree at McGill University in Montreal, QC
+
+Outside of programming I'm a(n)...
+
+↳ Classically trained violist and enjoy playing string quartet music.
+↳ Avid poker player, started the McGill Poker Studies Club and represented McGill in the PokerIPA
+↳ Reader of philosophy (Wittgenstein, Heidegger, Neitzsche...)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake-dark.svg">
