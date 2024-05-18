@@ -10,11 +10,13 @@ Previously, I was at...
 
 ↳ Fairfield County Bank, working on sysadmin stuff + scripting and automation
 
+
 Now I'm...
 
 ↳ Hacking around on CUDA
 
 ↳ Finishing my CS degree at McGill University in Montreal, QC
+
 
 Outside of programming I'm a(n)...
 
