@@ -24,5 +24,6 @@ Outside of programming I'm a(n)...
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aidangomar/aidangomar/output/github-contribution-grid-snake.svg">
 </picture>
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/aidangomar/aidangomar/blob/main/assets/emoji-sanrio.gif?raw=true');]{x0000}$}
