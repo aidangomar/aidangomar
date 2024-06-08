@@ -26,4 +26,4 @@ Outside of programming I'm a(n)...
 </picture>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; background: url('https://github.com/aidangomar/aidangomar/blob/main/assets/pompompurin-wash.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; background: url('https://github.com/aidangomar/aidangomar/blob/main/assets/catspin.gif?raw=true');]{x0000}$}
